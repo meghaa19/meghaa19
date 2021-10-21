@@ -1,7 +1,7 @@
-- 👋 Hi, I’m meghaa
-- 👀 I’m interested in web developement and competitive coding...
-- 🌱 I’m currently learning react...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Megha
+- 👀 I’m interested in web developement and competitive coding.
+- 🌱 I’m currently learning react.
+<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 Contact : meghachakraborty019@gmail.com
 
 <!---
